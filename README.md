@@ -1,22 +1,18 @@
-# PosterCreator
-PosterMaker is starting template for PosterCreator a basic Poster Template Customizing Product
+# PosterMaker - a basic Poster Template Customizing Product
 
-Features
-----
+## Features
 - User can Choose and Edit Template
 - User can upload an image and a text.
-- User can download the edited Poster.
+- User can download the edited Poster. 
 
-References Used
-----
+## :books: References Used
 PosterCreator uses a number of libraries to function properly:
-- [Fabric JS][fabricjs] JavaScript Library
+- [Fabric JS](http://fabricjs.com) JavaScript Library
 
-Copyrights
-----
-All Rights Reserved [_VG Impact IT Services_][owner] | Developed by [_Hemant Karekar_][author]
+## :closed_lock_with_key: Locked PRO Features of VirtualCard
 
-   [owner]: <http://vgimpact.com>
-   [author]: <https://github.com/HemantKarekar>
-   [fabricjs]: <http://fabricjs.com>
+**:small_blue_diamond: Add Social Media Handles**
+
+## :warning: Copyrights
+All Rights Reserved [_VG Impact IT Services_](http://vgimpact.com) | Developed by [_Hemant Karekar_](https://github.com/HemantKarekar)
    
